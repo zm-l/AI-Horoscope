@@ -1,0 +1,33 @@
+﻿{
+  "mookka_th": {
+    "is_new": false,
+    "zodiac": "Scorpio",
+    "element": "Water",
+    "visit_count": 5,
+    "last_message": "The love fortune you mentioned yesterday actually seemed accurate!",
+    "gift_sent": "Crystal Ball",
+    "past_3_days": {
+      "themes_used": [
+        "career & academics",
+        "love & relationships",
+        "wealth & opportunities"
+      ],
+      "styles_used": [
+        "mysterious prophecy",
+        "gentle whisper",
+        "playful rhetorical"
+      ],
+      "questions_asked": [
+        "Have you been secretly thinking about someone?",
+        "If you won the lottery tomorrow, what first?",
+        "Name the bravest decision you've made recently"
+      ]
+    }
+  },
+  "new_visitor_99": {
+    "is_new": true,
+    "zodiac": "Aries",
+    "element": "Fire",
+    "visit_count": 1
+  }
+}
